@@ -13,4 +13,4 @@ for( i = 0; i<list.length;i++){
 
 console.log("La cantidad de personas que asistieron de europa son: "+ n); 
 
-//hola toy modificando 
+//hola toy modificando..

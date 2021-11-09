@@ -19,3 +19,4 @@ const list1 = [
   console.log(people (list1,'Python'));
   console.log(people(list1,'JavaScript'));
   console.log(people(list1,'C#'));
+  

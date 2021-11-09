@@ -21,3 +21,4 @@ const list = [
  
  console.log(leng(list, 'Ruby'));
  console.log(leng(list, 'Python'));
+ 
